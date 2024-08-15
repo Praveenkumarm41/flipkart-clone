@@ -3,7 +3,7 @@ This is a clone of the Flipkart website created using HTML and CSS.
 
 The project is still in progress and JavaScript will be added later.
 
-## [Click Here to Open](https://Praveenkumar41github.github.io/flipkart-Clone/)
+## [Click Here to Open](https://praveenkumarm41.github.io/flipkart-clone/)
 
 ## Note : 
 If you are opening the site in mobile phone, Please open in Desktop Mode
